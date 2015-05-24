@@ -1,0 +1,8 @@
+orders:
+    schemas:
+    period: "daily"
+    operation: "increment"
+    variation:
+        enable: true
+        interval: "day"
+        percentage: true

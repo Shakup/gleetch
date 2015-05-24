@@ -1,0 +1,27 @@
+{
+  "name": "gleetch",
+  "version": "1.0.0",
+  "description": "Realtime Metrics Processor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shakup/gleetch.git"
+  },
+  "author": "Sébastien Decamme <sebastien.decamme@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shakup/gleetch/issues"
+  },
+  "homepage": "https://github.com/Shakup/gleetch",
+  "dependencies": {
+    "async": "^1.0.0",
+    "body-parser": "^1.12.4",
+    "express": "^4.12.4",
+    "jwt-simple": "^0.3.0",
+    "mongoose": "^4.0.3",
+    "yamljs": "^0.2.2"
+  }
+}
